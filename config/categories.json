@@ -1,0 +1,7 @@
+{
+  "tecnologia": ["AAPL", "MSFT", "NVDA", "GOOGL", "AMZN", "META"],
+  "agronegocio": ["ADM", "DE", "BG", "CTVA"],
+  "petroleo_gas": ["XOM", "CVX", "BP", "SHEL"],
+  "fundos_imobiliarios": ["VNQ", "XLRE", "HGLG11.SA", "KNRI11.SA"],
+  "dolar": ["USDBRL=X"]
+}

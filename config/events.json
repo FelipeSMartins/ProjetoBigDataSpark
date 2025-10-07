@@ -1,0 +1,9 @@
+[
+  {"name": "Eleições EUA 2016", "anchor_date": "2016-11-08", "window_days": 60},
+  {"name": "Eleições EUA 2020", "anchor_date": "2020-11-03", "window_days": 60},
+  {"name": "Eleições EUA 2024", "anchor_date": "2024-11-05", "window_days": 60},
+  {"name": "Invasão Rússia-Ucrânia", "anchor_date": "2022-02-24", "window_days": 60},
+  {"name": "Pandemia COVID (WHO)", "anchor_date": "2020-03-11", "window_days": 60},
+  {"name": "Guerra comercial EUA-China (Tarifas iniciais)", "anchor_date": "2018-07-06", "window_days": 60},
+  {"name": "Guerra comercial EUA-China (Tarifas adicionais)", "anchor_date": "2018-09-24", "window_days": 60}
+]
